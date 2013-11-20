@@ -71,10 +71,10 @@
     },
     {
         "remote":       "github",
-        "account":      "TheMuppets",
-        "repository":   "proprietary_vendor_asus",
-        "target_path":  "vendor/asus",
-        "revision":     "cm-10.2"
+        "account":      "ThankYouMario",
+        "repository":   "proprietary_vendor_asus_deb",
+        "target_path":  "vendor/asus/deb",
+        "revision":     "kitkat"
     },
     {
         "remote":       "github",
