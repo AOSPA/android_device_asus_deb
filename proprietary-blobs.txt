@@ -42,20 +42,11 @@
 /system/bin/usbhub
 /system/bin/usbhub_init
 /system/etc/apns-conf.xml
-/system/etc/firmware/tzapps.b00
-/system/etc/firmware/tzapps.b01
-/system/etc/firmware/tzapps.b02
-/system/etc/firmware/tzapps.b03
-/system/etc/firmware/tzapps.mdt
-/system/etc/firmware/vidc.b00
-/system/etc/firmware/vidc.b01
-/system/etc/firmware/vidc.b02
-/system/etc/firmware/vidc.b03
-/system/etc/firmware/vidc.mdt
-/system/etc/firmware/vidcfw.elf
-/system/etc/firmware/vidc_1080p.fw
-/system/etc/firmware/wcd9310/wcd9310_anc.bin
-/system/etc/firmware/wcd9310/wcd9310_mbhc.bin
+/system/vendor/firmware/tzapps.b00
+/system/vendor/firmware/tzapps.b01
+/system/vendor/firmware/tzapps.b02
+/system/vendor/firmware/tzapps.b03
+/system/vendor/firmware/tzapps.mdt
 /system/etc/gps.conf
 /system/vendor/lib/egl/eglsubAndroid.so
 /system/vendor/lib/egl/libEGL_adreno.so
@@ -63,6 +54,7 @@
 /system/vendor/lib/egl/libGLESv2_adreno.so
 /system/vendor/lib/egl/libplayback_adreno.so
 /system/vendor/lib/egl/libq3dtools_adreno.so
+/system/lib/egl/egl.cfg
 /system/lib/hw/flp.msm8960.so
 /system/lib/hw/gps.msm8960.so
 /system/lib/hw/sensors.msm8960.so
@@ -130,6 +122,7 @@
 /system/lib/libsensor_user_cal.so
 /system/lib/libstagefright_hdcp.so
 /system/lib/libxml.so
+/system/lib/drm/libfwdlockengine.so
 /system/vendor/firmware/a300_pfp.fw
 /system/vendor/firmware/a300_pm4.fw
 /system/vendor/firmware/bcm2079x-b5_firmware.ncd
@@ -182,6 +175,7 @@
 /system/vendor/firmware/wcnss.b04
 /system/vendor/firmware/wcnss.b05
 /system/vendor/firmware/wcnss.mdt
+/system/vendor/firmware/wlan/prima/WCNSS_cfg.dat
 /system/vendor/lib/libdrmdecrypt.so
 /system/vendor/lib/libgemini.so
 /system/vendor/lib/libgeofence.so
@@ -208,3 +202,5 @@
 /system/vendor/lib/libmmstillomx.so
 /system/vendor/lib/liboemcamera.so
 /system/vendor/lib/libqomx_jpegenc.so
+/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so
+/system/vendor/lib/mediadrm/libwvdrmengine.so
