@@ -63,7 +63,7 @@
         "remote":       "blobs",
         "repository":   "proprietary_vendor_asus_deb",
         "target_path":  "vendor/asus/deb",
-        "revision":     "lollipop"
+        "revision":     "lollipop-mr1"
     },
     {
         "remote":       "github",
